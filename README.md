@@ -1,6 +1,9 @@
 # mereach
 
-A new Flutter application.
+O MeReach permite o usuário monitorar uma lista de servidores, mostrando se os
+mesmos estão online ou não.
+
+Foi utilizado o framework Flutter, linguagem Dart e banco de dados Firebase.
 
 ## Getting Started
 
