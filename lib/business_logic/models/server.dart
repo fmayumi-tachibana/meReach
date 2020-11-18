@@ -13,13 +13,4 @@ class Server {
     this.lastUpdate,
   });
 
-  factory Server.fromJson(Map<String, dynamic> json) {
-    return Server(
-      id:  json['id'],
-      name: json['name'],
-      url: json['url'],
-      status: json['status'],
-      lastUpdate: json['lastUpdate'],
-    );
-  }
 }
